@@ -1,2 +1,5 @@
+[web_servers]
 10.0.0.61
+
+[db_servers] 
 10.0.0.62
